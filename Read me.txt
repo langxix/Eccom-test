@@ -1,0 +1,6 @@
+A Online shop with cart function 
+
+using tailwind for styling
+
+context api  as data managment 
+toastify  for aleart and notification
